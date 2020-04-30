@@ -1,4 +1,4 @@
-# GibberishOrGenuineTR
+# Word Classifier - Is it gibberish?
 This project is done in order to propose a solution to distinguish junk words from genuine words. The algorithm works based on **4 rules** and utilizes a .csv file as a genuine Turkish word dictionary (2235 words). The algorithm has an average accuracy rate of **93.48%**, which is significantly high.
 
 ### Rules ###
