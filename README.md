@@ -8,4 +8,4 @@ This project is done in order to propose a solution to distinguish junk words fr
 - If the median of probabilities of two consecutive letters being consecutive is *less* than the thereshold **and** the median of euclidean distances of consecutive letters are less than the thereshold, the word is junk.
 
 # Dataset
-Dataset was provided by a private company which is why publicly sharing them is not allowed. However, a new dictionary file will be created by myself and the repo will be updated accordingly. Until then, you can try the code yourself if you have your own datasets! Please enjoy :)
+Dataset was provided by a private company which is why publicly sharing it is not allowed. However, a new dictionary file will be created by myself and the repo will be updated accordingly. Until then, you can try the code yourself if you have your own datasets! Please enjoy :)
