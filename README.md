@@ -11,7 +11,7 @@ This project is done in order to propose a solution to distinguish junk words fr
 
 
 ## English
-This project is done in order to propose a solution to distinguish junk words from genuine words. The algorithm works based on **4 rules** and utilizes a .csv file as a genuine English word dictionary. The algorithm has an average accuracy rate of **84.68%**, which is significantly high.
+This project is done in order to propose a solution to distinguish junk words from genuine words. The algorithm works based on **4 rules** and utilizes a .csv file as a genuine English word dictionary (21666 words). The algorithm has an average accuracy rate of **84.68%**, which is significantly high.
 
 ### Rules
 - If a word contains non-alpha character after leading and trailing characters are removed, it is junk.
